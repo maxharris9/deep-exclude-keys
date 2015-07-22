@@ -6,6 +6,10 @@
   "scripts": {
     "test": "tape test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxharris9/deep-exclude-keys.git"  
+  },
   "keywords": [
     "deep",
     "copy",
@@ -14,6 +18,9 @@
   ],
   "author": "Max Harris <harris.max@gmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxharris9/deep-exclude-keys/issues"
+  },
   "devDependencies": {
     "tape": "^4.0.1"
   }
