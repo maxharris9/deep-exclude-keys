@@ -55,8 +55,5 @@ __exclude__(`original`, `blacklist`)
   ];
 
   var res = exclude(orig, blacklist);
-  if (blacklist === res) {
-    console.log('it works!');
-  }
-
+  // `res` should look just like `expected`
 ```
