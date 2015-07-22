@@ -1,0 +1,20 @@
+{
+  "name": "deep-exclude-keys",
+  "version": "1.0.0",
+  "description": "deep copy of object with blacklist",
+  "main": "deep-exclude-keys.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "deep",
+    "copy",
+    "object",
+    "blacklist"
+  ],
+  "author": "Max Harris <harris.max@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.0.1"
+  }
+}
