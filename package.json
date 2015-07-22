@@ -1,6 +1,6 @@
 {
   "name": "deep-exclude-keys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "deep copy of object with blacklist",
   "main": "deep-exclude-keys.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxharris9/deep-exclude-keys.git"  
+    "url": "https://github.com/maxharris9/deep-exclude-keys.git"
   },
   "keywords": [
     "deep",
